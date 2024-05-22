@@ -14,7 +14,7 @@
     "gh-pages": "^6.1.1",
     "vue": "^2.6.14"
   },
-  "homepage": "https://github.com/GeorgGeo/budget-vue",
+  "homepage": "https://github.com/GeorgGeo/GeorgGeo.github.io.git",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
