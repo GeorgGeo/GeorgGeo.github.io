@@ -1,4 +1,9 @@
 # budget-app
+## Project on Vue
+### Работа с библиотекой Element UI
+### Работа с Option API
+
+# budget-app
 ## Project setup
 ```
 npm install
